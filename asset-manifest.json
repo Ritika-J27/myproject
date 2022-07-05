@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.2dfde647.css",
-    "main.js": "/project/static/js/main.f7de2bef.js",
-    "static/js/787.c6ac071a.chunk.js": "/project/static/js/787.c6ac071a.chunk.js",
-    "static/media/profile.svg": "/project/static/media/profile.d025ac5d66981877f9d73b653a2fcf99.svg",
-    "static/media/book 1.svg": "/project/static/media/book 1.9f87078cbb4d493217deaacd1c891e06.svg",
-    "static/media/result 1.svg": "/project/static/media/result 1.3836fd7bbfb9a009aeb6900060dbcbf5.svg",
-    "static/media/black-board 1.svg": "/project/static/media/black-board 1.6a7f7f03793e91db3b09948f354941b4.svg",
-    "static/media/stand-users 1.svg": "/project/static/media/stand-users 1.2cf7989c7dfc58b1ef95cb10f445804b.svg",
-    "static/media/exam.svg": "/project/static/media/exam.95faf0a0046e1d2c62d43f641c28ca33.svg",
-    "static/media/dashboard.svg": "/project/static/media/dashboard.a527f6b2fda40a93defba966abcd857f.svg",
-    "static/media/logo3.svg": "/project/static/media/logo3.5a10d18ed9f53a4218429bd10dac7c12.svg",
-    "static/media/live-streaming 1.svg": "/project/static/media/live-streaming 1.7d3762f7cb567a68d668d49b303e3656.svg",
-    "static/media/notification 1.svg": "/project/static/media/notification 1.b7783f52d5e9c9528ac1b6567118f823.svg",
-    "index.html": "/project/index.html",
-    "static/media/edit.svg": "/project/static/media/edit.0eb08c0dd9d3af9233e41294a838a13b.svg",
-    "static/media/remove.svg": "/project/static/media/remove.5b614cf5a846593fc15cea5fdaf94b94.svg",
-    "main.2dfde647.css.map": "/project/static/css/main.2dfde647.css.map",
-    "main.f7de2bef.js.map": "/project/static/js/main.f7de2bef.js.map",
-    "787.c6ac071a.chunk.js.map": "/project/static/js/787.c6ac071a.chunk.js.map"
+    "main.css": "/myproject/static/css/main.2dfde647.css",
+    "main.js": "/myproject/static/js/main.ecff7501.js",
+    "static/js/787.c6ac071a.chunk.js": "/myproject/static/js/787.c6ac071a.chunk.js",
+    "static/media/profile.svg": "/myproject/static/media/profile.d025ac5d66981877f9d73b653a2fcf99.svg",
+    "static/media/book 1.svg": "/myproject/static/media/book 1.9f87078cbb4d493217deaacd1c891e06.svg",
+    "static/media/result 1.svg": "/myproject/static/media/result 1.3836fd7bbfb9a009aeb6900060dbcbf5.svg",
+    "static/media/black-board 1.svg": "/myproject/static/media/black-board 1.6a7f7f03793e91db3b09948f354941b4.svg",
+    "static/media/stand-users 1.svg": "/myproject/static/media/stand-users 1.2cf7989c7dfc58b1ef95cb10f445804b.svg",
+    "static/media/exam.svg": "/myproject/static/media/exam.95faf0a0046e1d2c62d43f641c28ca33.svg",
+    "static/media/dashboard.svg": "/myproject/static/media/dashboard.a527f6b2fda40a93defba966abcd857f.svg",
+    "static/media/logo3.svg": "/myproject/static/media/logo3.5a10d18ed9f53a4218429bd10dac7c12.svg",
+    "static/media/live-streaming 1.svg": "/myproject/static/media/live-streaming 1.7d3762f7cb567a68d668d49b303e3656.svg",
+    "static/media/notification 1.svg": "/myproject/static/media/notification 1.b7783f52d5e9c9528ac1b6567118f823.svg",
+    "index.html": "/myproject/index.html",
+    "static/media/edit.svg": "/myproject/static/media/edit.0eb08c0dd9d3af9233e41294a838a13b.svg",
+    "static/media/remove.svg": "/myproject/static/media/remove.5b614cf5a846593fc15cea5fdaf94b94.svg",
+    "main.2dfde647.css.map": "/myproject/static/css/main.2dfde647.css.map",
+    "main.ecff7501.js.map": "/myproject/static/js/main.ecff7501.js.map",
+    "787.c6ac071a.chunk.js.map": "/myproject/static/js/787.c6ac071a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfde647.css",
-    "static/js/main.f7de2bef.js"
+    "static/js/main.ecff7501.js"
   ]
 }
